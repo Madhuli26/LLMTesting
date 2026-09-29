@@ -1,0 +1,14 @@
+[
+  {
+    "id": "g1",
+    "prompt": "Translate the English sentence 'Hello, how are you?' into Spanish.",
+    "expected": "Hola, ¿cómo estás?",
+    "notes": "Simple translation test"
+  },
+  {
+    "id": "g2",
+    "prompt": "Summarize the following in one sentence: 'The quick brown fox jumps over the lazy dog.'",
+    "expected": "A quick brown fox jumps over a lazy dog.",
+    "notes": "Short summary / paraphrase"
+  }
+]
